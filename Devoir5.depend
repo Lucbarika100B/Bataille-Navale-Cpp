@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1668185047 source:c:\users\nkol2401\desktop\kificho\ift159\devoir5\bataillenavale.cpp
+	"batailleNavale.h"
+	"bnRandom.h"
+	<cassert>
+
+1668185028 c:\users\nkol2401\desktop\kificho\ift159\devoir5\bataillenavale.h
+	"gestionGrille.h"
+
+1668184963 c:\users\nkol2401\desktop\kificho\ift159\devoir5\gestiongrille.h
+	<iostream>
+	<array>
+	<stdio.h>
+
+1668185071 c:\users\nkol2401\desktop\kificho\ift159\devoir5\bnrandom.h
+
+1668185108 source:c:\users\nkol2401\desktop\kificho\ift159\devoir5\bnrandom.cpp
+	"bnRandom.h"
+	<random>
+	<chrono>
+	<cassert>
+
+1668190623 source:c:\users\nkol2401\desktop\kificho\ift159\devoir5\gestiongrille.cpp
+	"gestionGrille.h"
+	<string>
+	<iomanip>
+
+1668184942 source:c:\users\nkol2401\desktop\kificho\ift159\devoir5\main.cpp
+	"batailleNavale.h"
+	<iostream>
+
